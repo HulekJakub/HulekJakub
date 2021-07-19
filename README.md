@@ -1,5 +1,5 @@
 ## Hi there 👋
-I study IT&AI at AGH university in Cracow, currently at 2nd year.  
+I study Computer Science with AI at AGH university in Cracow, currently at 2nd year.  
 I am very glad you've came here to look at my work.  
 There is not much there yet but I'm sure it will grow day by day :pray:  
 
