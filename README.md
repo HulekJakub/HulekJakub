@@ -1,5 +1,5 @@
 ## Hi there 👋
-I study Computer Science with AI at AGH university in Cracow, currently at 3rd year.  
+I study Computer Science with AI at AGH university in Cracow, currently at 4th year.  
 I am glad you've came here to look at my work.  
 <!--
 My site:  https://hulekjakub.github.io/  
