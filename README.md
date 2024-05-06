@@ -1,6 +1,8 @@
 ## Hi there 👋
 I study Computer Science with AI at AGH university in Cracow, currently at 4th year.  
 I am glad you've came here to look at my work.  
+
+My quick double pendulum simulation using Runge-Kutta method
 ![double_pendulum_animation](https://github.com/HulekJakub/HulekJakub/assets/49005176/bdeb0a8a-0704-4d40-87ff-7f0c389bbf5b)
 <!--
 My site:  https://hulekjakub.github.io/  
