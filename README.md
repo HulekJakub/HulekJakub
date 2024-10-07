@@ -1,5 +1,5 @@
 ## Hi there 👋
-I study Computer Science with AI at AGH university in Cracow, currently at 4th year.  
+I study Computer Science with AI at AGH university in Cracow, currently at 5th year.  
 I am glad you've came here to look at my work.  
 
 My quick double pendulum simulation using Runge-Kutta method
